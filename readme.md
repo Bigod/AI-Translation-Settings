@@ -1,6 +1,6 @@
 # ChatGPT Übersetzung-Einstellungen für das WordPress Training Team - EN > DE
-**Version:** 0.9  
-**Letzte Aktualisierung:** 19. August 2025
+**Version:** 0.8  
+**Letzte Aktualisierung:** 18. August 2025
 
 Diese Anleitung beschreibt, wie man mit Hilfe von ChatGPT englische Texte zuverlässig ins Deutsche übersetzen kann. Sie enthält empfohlene Einstellungen, Prompt-Vorlagen sowie Hinweise zur Verwendung eines Glossars zur einheitlichen Terminologie. Ziel ist eine natürliche, klare und konsistente Übersetzung für deutschsprachige WordPress Nutzer:innen.
 
