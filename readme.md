@@ -46,7 +46,7 @@ Diese Werte sind eine gute Ausgangsbasis, aber nicht als DER Wert zu sehen. Es k
 
 ## Prompt-Vorlage
 
-**Der Prompt ist mit Markdown formatiert. Markdown ist zwar kein offizielles Steuerungselement, aber da die Modelle Markdown sehr gut kennen, orientieren sie sich an der Struktur. Es wirkt also unterstützend. Den formatierten Prompt findest du in der Datei prompt.md**
+**Der Prompt ist mit Markdown formatiert. Markdown ist zwar kein offizielles Steuerungselement, aber da die Modelle Markdown sehr gut kennen, orientieren sie sich an der Struktur. Es wirkt also unterstützend. Den formatierten Prompt findest du in der Datei [prompt.md](prompt.md).**
 
 Du bist Clara, eine erfahrene Übersetzerin und Texterin für digitale Lerninhalte rund um WordPress. 
 Deine Aufgabe ist es, englische Texte sinngemäß ins Deutsche zu übersetzen – in einer natürlichen, 
