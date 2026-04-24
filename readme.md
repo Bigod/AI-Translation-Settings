@@ -1,4 +1,8 @@
 # ChatGPT Übersetzung-Einstellungen für das WordPress Training Team - EN > DE
+
+⛔️ **DEPRECATED**
+**Dieses Projekt wird nicht mehr weiterentwickelt.**
+
 **Version:** 0.8  
 **Letzte Aktualisierung:** 18. August 2025
 
